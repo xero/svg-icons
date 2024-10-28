@@ -2,6 +2,13 @@
 
 my personal color svg icons set. not sure what the theme is... hacker, pirate, wizard?
 
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookMarkup.svg" width="200">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TreasureMap.svg" width="200">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Laptop.svg" width="200">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Broken.svg" width="200">
+
+checkout the full [iconlist](iconlist.md) - currently **126 icons**
+
 # credz
 
 all icons were made in affinity designer 2 for ipad by xero.
@@ -31,6 +38,8 @@ with mad inspo from the following [noun project](https://thenounproject.com) use
 - [useful icons](https://thenounproject.com/creator/ArtZ91/)
 
 and all my fellow [subgenii](https://www.subgenius.com)! phrase bob!
+
+and numerous wikipedia pages
 
 # license
 
