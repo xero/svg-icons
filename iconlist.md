@@ -1,128 +1,130 @@
 # icon list
 
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Ansi.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/ArcadeLightGunCon.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/ArcadeLightgun.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Arcade.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Atlas.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BashBible.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Blade.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BobAlien.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BobDevil.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BobDiety.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Bob.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Bomb.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookAlt.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookAtlas.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookAtomic.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookBomb.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookCircuit.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookClaspLight.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookClasp.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookCode.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookIdeas.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookJournal.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookLight.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookManual.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookMarkup.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookNotesAlt.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookNotesGrey.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookNotesLight.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookNotes.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookOpen.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookRegex.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookShell.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookSkull.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookSpells.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Book.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BrainSlug.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Broken.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/CandleAlt.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Candle.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Cards.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Car.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Chaos.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Chats.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Chip.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/CircuitBoard.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Cloud.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/CrystalBallEye.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Dagger.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Design.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Doom.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/EyeBloodshot.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Eye.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Fire.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/FloppyOld.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Floppy.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Gameboy.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Game.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Ghost.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/HourGlass.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/IdeaBulbNeon.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/IdeaBulb.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/InvaderFile.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Invader.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/JollyRoger.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/KeyAlt.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Keyboard.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/KeyRing.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Key.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/LaptopBomb.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/LaptopCircuit.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/LaptopCode.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/LaptopMarkup.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/LaptopShell.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Laptop.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/LaptopWeb.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Link.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Mace.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Magic.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Manual.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/MultiToolSak.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Occult.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Package.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/PCB.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Pinball.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Project.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Pumpkin.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/ReadMe.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Rip.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Roller.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Roms.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/SadBot.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Scroller.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/ShieldDark.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/ShieldMace.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/ShieldX.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Shopping.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/SkullCandel.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/SkullHarlock.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Skull.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/SprayPaint.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/SUV.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Sword.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Tablet.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Tags.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TerminalOreo.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Terminal.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Todo.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeAtlas.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeBomb.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeCode.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeIdea.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeManual.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeMarkup.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeOpen.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeShell.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeSkull.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeSpooky.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Tools.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TreasureChestRoyal.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TreasureChest.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TreasureMap.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/UnicursalHexagram.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Wizard.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/YoutubePlay.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Youtube.svg" width="300" height="300">
-<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Zettelkasten.svg" width="300" height="300">
+| icon  | filename | emojiname |
+| :---: | :------: | :-------: |
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Ansi.svg" width="200"> | Ansi.svg | `:XoAnsi:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/ArcadeLightGunCon.svg" width="200"> | ArcadeLightGunCon.svg | `:XoArcadeLightGunCon:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/ArcadeLightgun.svg" width="200"> | ArcadeLightgun.svg | `:XoArcadeLightgun:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Arcade.svg" width="200"> | Arcade.svg | `:XoArcade:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Atlas.svg" width="200"> | Atlas.svg | `:XoAtlas:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BashBible.svg" width="200"> | BashBible.svg | `:XoBashBible:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Blade.svg" width="200"> | Blade.svg | `:XoBlade:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BobAlien.svg" width="200"> | BobAlien.svg | `:XoBobAlien:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BobDevil.svg" width="200"> | BobDevil.svg | `:XoBobDevil:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BobDiety.svg" width="200"> | BobDiety.svg | `:XoBobDiety:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Bob.svg" width="200"> | Bob.svg | `:XoBob:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Bomb.svg" width="200"> | Bomb.svg | `:XoBomb:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookAlt.svg" width="200"> | BookAlt.svg | `:XoBookAlt:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookAtlas.svg" width="200"> | BookAtlas.svg | `:XoBookAtlas:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookAtomic.svg" width="200"> | BookAtomic.svg | `:XoBookAtomic:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookBomb.svg" width="200"> | BookBomb.svg | `:XoBookBomb:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookCircuit.svg" width="200"> | BookCircuit.svg | `:XoBookCircuit:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookClaspLight.svg" width="200"> | BookClaspLight.svg | `:XoBookClaspLight:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookClasp.svg" width="200"> | BookClasp.svg | `:XoBookClasp:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookCode.svg" width="200"> | BookCode.svg | `:XoBookCode:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookIdeas.svg" width="200"> | BookIdeas.svg | `:XoBookIdeas:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookJournal.svg" width="200"> | BookJournal.svg | `:XoBookJournal:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookLight.svg" width="200"> | BookLight.svg | `:XoBookLight:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookManual.svg" width="200"> | BookManual.svg | `:XoBookManual:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookMarkup.svg" width="200"> | BookMarkup.svg | `:XoBookMarkup:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookNotesAlt.svg" width="200"> | BookNotesAlt.svg | `:XoBookNotesAlt:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookNotesGrey.svg" width="200"> | BookNotesGrey.svg | `:XoBookNotesGrey:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookNotesLight.svg" width="200"> | BookNotesLight.svg | `:XoBookNotesLight:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookNotes.svg" width="200"> | BookNotes.svg | `:XoBookNotes:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookOpen.svg" width="200"> | BookOpen.svg | `:XoBookOpen:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookRegex.svg" width="200"> | BookRegex.svg | `:XoBookRegex:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookShell.svg" width="200"> | BookShell.svg | `:XoBookShell:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookSkull.svg" width="200"> | BookSkull.svg | `:XoBookSkull:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookSpells.svg" width="200"> | BookSpells.svg | `:XoBookSpells:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Book.svg" width="200"> | Book.svg | `:XoBook:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BrainSlug.svg" width="200"> | BrainSlug.svg | `:XoBrainSlug:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Broken.svg" width="200"> | Broken.svg | `:XoBroken:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/CandleAlt.svg" width="200"> | CandleAlt.svg | `:XoCandleAlt:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Candle.svg" width="200"> | Candle.svg | `:XoCandle:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Cards.svg" width="200"> | Cards.svg | `:XoCards:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Car.svg" width="200"> | Car.svg | `:XoCar:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Chaos.svg" width="200"> | Chaos.svg | `:XoChaos:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Chats.svg" width="200"> | Chats.svg | `:XoChats:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Chip.svg" width="200"> | Chip.svg | `:XoChip:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/CircuitBoard.svg" width="200"> | CircuitBoard.svg | `:XoCircuitBoard:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Cloud.svg" width="200"> | Cloud.svg | `:XoCloud:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/CrystalBallEye.svg" width="200"> | CrystalBallEye.svg | `:XoCrystalBallEye:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Dagger.svg" width="200"> | Dagger.svg | `:XoDagger:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Design.svg" width="200"> | Design.svg | `:XoDesign:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Doom.svg" width="200"> | Doom.svg | `:XoDoom:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/EyeBloodshot.svg" width="200"> | EyeBloodshot.svg | `:XoEyeBloodshot:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Eye.svg" width="200"> | Eye.svg | `:XoEye:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Fire.svg" width="200"> | Fire.svg | `:XoFire:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/FloppyOld.svg" width="200"> | FloppyOld.svg | `:XoFloppyOld:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Floppy.svg" width="200"> | Floppy.svg | `:XoFloppy:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Gameboy.svg" width="200"> | Gameboy.svg | `:XoGameboy:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Game.svg" width="200"> | Game.svg | `:XoGame:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Ghost.svg" width="200"> | Ghost.svg | `:XoGhost:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/HourGlass.svg" width="200"> | HourGlass.svg | `:XoHourGlass:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/IdeaBulbNeon.svg" width="200"> | IdeaBulbNeon.svg | `:XoIdeaBulbNeon:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/IdeaBulb.svg" width="200"> | IdeaBulb.svg | `:XoIdeaBulb:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/InvaderFile.svg" width="200"> | InvaderFile.svg | `:XoInvaderFile:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Invader.svg" width="200"> | Invader.svg | `:XoInvader:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/JollyRoger.svg" width="200"> | JollyRoger.svg | `:XoJollyRoger:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/KeyAlt.svg" width="200"> | KeyAlt.svg | `:XoKeyAlt:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Keyboard.svg" width="200"> | Keyboard.svg | `:XoKeyboard:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/KeyRing.svg" width="200"> | KeyRing.svg | `:XoKeyRing:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Key.svg" width="200"> | Key.svg | `:XoKey:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/LaptopBomb.svg" width="200"> | LaptopBomb.svg | `:XoLaptopBomb:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/LaptopCircuit.svg" width="200"> | LaptopCircuit.svg | `:XoLaptopCircuit:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/LaptopCode.svg" width="200"> | LaptopCode.svg | `:XoLaptopCode:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/LaptopMarkup.svg" width="200"> | LaptopMarkup.svg | `:XoLaptopMarkup:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/LaptopShell.svg" width="200"> | LaptopShell.svg | `:XoLaptopShell:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Laptop.svg" width="200"> | Laptop.svg | `:XoLaptop:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/LaptopWeb.svg" width="200"> | LaptopWeb.svg | `:XoLaptopWeb:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Link.svg" width="200"> | Link.svg | `:XoLink:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Mace.svg" width="200"> | Mace.svg | `:XoMace:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Magic.svg" width="200"> | Magic.svg | `:XoMagic:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Manual.svg" width="200"> | Manual.svg | `:XoManual:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/MultiToolSak.svg" width="200"> | MultiToolSak.svg | `:XoMultiToolSak:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Occult.svg" width="200"> | Occult.svg | `:XoOccult:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Package.svg" width="200"> | Package.svg | `:XoPackage:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/PCB.svg" width="200"> | PCB.svg | `:XoPCB:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Pinball.svg" width="200"> | Pinball.svg | `:XoPinball:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Project.svg" width="200"> | Project.svg | `:XoProject:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Pumpkin.svg" width="200"> | Pumpkin.svg | `:XoPumpkin:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/ReadMe.svg" width="200"> | ReadMe.svg | `:XoReadMe:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Rip.svg" width="200"> | Rip.svg | `:XoRip:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Roller.svg" width="200"> | Roller.svg | `:XoRoller:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Roms.svg" width="200"> | Roms.svg | `:XoRoms:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/SadBot.svg" width="200"> | SadBot.svg | `:XoSadBot:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Scroller.svg" width="200"> | Scroller.svg | `:XoScroller:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/ShieldDark.svg" width="200"> | ShieldDark.svg | `:XoShieldDark:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/ShieldMace.svg" width="200"> | ShieldMace.svg | `:XoShieldMace:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/ShieldX.svg" width="200"> | ShieldX.svg | `:XoShieldX:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Shopping.svg" width="200"> | Shopping.svg | `:XoShopping:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/SkullCandel.svg" width="200"> | SkullCandel.svg | `:XoSkullCandel:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/SkullHarlock.svg" width="200"> | SkullHarlock.svg | `:XoSkullHarlock:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Skull.svg" width="200"> | Skull.svg | `:XoSkull:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/SprayPaint.svg" width="200"> | SprayPaint.svg | `:XoSprayPaint:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/SUV.svg" width="200"> | SUV.svg | `:XoSUV:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Sword.svg" width="200"> | Sword.svg | `:XoSword:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Tablet.svg" width="200"> | Tablet.svg | `:XoTablet:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Tags.svg" width="200"> | Tags.svg | `:XoTags:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TerminalOreo.svg" width="200"> | TerminalOreo.svg | `:XoTerminalOreo:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Terminal.svg" width="200"> | Terminal.svg | `:XoTerminal:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Todo.svg" width="200"> | Todo.svg | `:XoTodo:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeAtlas.svg" width="200"> | TomeAtlas.svg | `:XoTomeAtlas:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeBomb.svg" width="200"> | TomeBomb.svg | `:XoTomeBomb:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeCode.svg" width="200"> | TomeCode.svg | `:XoTomeCode:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeIdea.svg" width="200"> | TomeIdea.svg | `:XoTomeIdea:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeManual.svg" width="200"> | TomeManual.svg | `:XoTomeManual:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeMarkup.svg" width="200"> | TomeMarkup.svg | `:XoTomeMarkup:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeOpen.svg" width="200"> | TomeOpen.svg | `:XoTomeOpen:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeShell.svg" width="200"> | TomeShell.svg | `:XoTomeShell:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeSkull.svg" width="200"> | TomeSkull.svg | `:XoTomeSkull:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeSpooky.svg" width="200"> | TomeSpooky.svg | `:XoTomeSpooky:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Tools.svg" width="200"> | Tools.svg | `:XoTools:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TreasureChestRoyal.svg" width="200"> | TreasureChestRoyal.svg | `:XoTreasureChestRoyal:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TreasureChest.svg" width="200"> | TreasureChest.svg | `:XoTreasureChest:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TreasureMap.svg" width="200"> | TreasureMap.svg | `:XoTreasureMap:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/UnicursalHexagram.svg" width="200"> | UnicursalHexagram.svg | `:XoUnicursalHexagram:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Wizard.svg" width="200"> | Wizard.svg | `:XoWizard:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/YoutubePlay.svg" width="200"> | YoutubePlay.svg | `:XoYoutubePlay:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Youtube.svg" width="200"> | Youtube.svg | `:XoYoutube:`
+| <img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Zettelkasten.svg" width="200"> | Zettelkasten.svg | `:XoZettelkasten:`
