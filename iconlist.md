@@ -1,128 +1,128 @@
 # icon list
 
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Ansi.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/ArcadeLightGunCon.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/ArcadeLightgun.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Arcade.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Atlas.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BashBible.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Blade.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BobAlien.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BobDevil.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BobDiety.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Bob.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Bomb.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookAlt.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookAtlas.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookAtomic.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookBomb.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookCircuit.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookClaspLight.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookClasp.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookCode.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookIdeas.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookJournal.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookLight.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookManual.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookMarkup.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookNotesAlt.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookNotesGrey.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookNotesLight.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookNotes.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookOpen.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookRegex.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookShell.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookSkull.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookSpells.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Book.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BrainSlug.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Broken.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/CandleAlt.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Candle.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Cards.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Car.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Chaos.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Chats.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Chip.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/CircuitBoard.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Cloud.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/CrystalBallEye.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Dagger.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Design.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Doom.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/EyeBloodshot.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Eye.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Fire.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/FloppyOld.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Floppy.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Gameboy.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Game.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Ghost.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/HourGlass.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/IdeaBulbNeon.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/IdeaBulb.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/InvaderFile.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Invader.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/JollyRoger.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/KeyAlt.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Keyboard.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/KeyRing.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Key.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/LaptopBomb.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/LaptopCircuit.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/LaptopCode.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/LaptopMarkup.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/LaptopShell.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Laptop.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/LaptopWeb.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Link.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Mace.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Magic.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Manual.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/MultiToolSak.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Occult.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Package.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/PCB.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Pinball.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Project.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Pumpkin.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/ReadMe.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Rip.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Roller.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Roms.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/SadBot.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Scroller.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/ShieldDark.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/ShieldMace.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/ShieldX.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Shopping.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/SkullCandel.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/SkullHarlock.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Skull.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/SprayPaint.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/SUV.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Sword.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Tablet.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Tags.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TerminalOreo.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Terminal.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Todo.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeAtlas.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeBomb.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeCode.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeIdea.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeManual.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeMarkup.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeOpen.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeShell.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeSkull.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeSpooky.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Tools.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TreasureChestRoyal.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TreasureChest.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TreasureMap.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/UnicursalHexagram.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Wizard.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/YoutubePlay.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Youtube.svg|100x100)
-![](https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Zettelkasten.svg|100x100)
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Ansi.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/ArcadeLightGunCon.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/ArcadeLightgun.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Arcade.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Atlas.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BashBible.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Blade.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BobAlien.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BobDevil.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BobDiety.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Bob.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Bomb.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookAlt.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookAtlas.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookAtomic.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookBomb.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookCircuit.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookClaspLight.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookClasp.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookCode.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookIdeas.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookJournal.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookLight.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookManual.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookMarkup.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookNotesAlt.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookNotesGrey.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookNotesLight.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookNotes.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookOpen.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookRegex.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookShell.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookSkull.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BookSpells.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Book.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/BrainSlug.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Broken.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/CandleAlt.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Candle.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Cards.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Car.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Chaos.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Chats.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Chip.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/CircuitBoard.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Cloud.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/CrystalBallEye.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Dagger.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Design.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Doom.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/EyeBloodshot.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Eye.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Fire.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/FloppyOld.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Floppy.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Gameboy.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Game.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Ghost.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/HourGlass.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/IdeaBulbNeon.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/IdeaBulb.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/InvaderFile.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Invader.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/JollyRoger.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/KeyAlt.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Keyboard.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/KeyRing.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Key.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/LaptopBomb.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/LaptopCircuit.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/LaptopCode.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/LaptopMarkup.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/LaptopShell.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Laptop.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/LaptopWeb.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Link.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Mace.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Magic.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Manual.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/MultiToolSak.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Occult.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Package.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/PCB.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Pinball.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Project.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Pumpkin.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/ReadMe.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Rip.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Roller.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Roms.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/SadBot.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Scroller.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/ShieldDark.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/ShieldMace.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/ShieldX.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Shopping.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/SkullCandel.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/SkullHarlock.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Skull.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/SprayPaint.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/SUV.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Sword.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Tablet.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Tags.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TerminalOreo.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Terminal.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Todo.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeAtlas.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeBomb.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeCode.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeIdea.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeManual.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeMarkup.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeOpen.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeShell.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeSkull.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TomeSpooky.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Tools.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TreasureChestRoyal.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TreasureChest.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/TreasureMap.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/UnicursalHexagram.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Wizard.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/YoutubePlay.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Youtube.svg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/xero/svg-icons/refs/heads/main/icons/Zettelkasten.svg" width="300" height="300">
